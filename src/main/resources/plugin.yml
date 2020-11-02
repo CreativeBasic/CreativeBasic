@@ -1,0 +1,6 @@
+name: CreativeBasic
+version: 1.0
+authors:
+  - NewZ_AZ
+  - Scythe
+main: com.crealabs.creativebasic.main.Main
