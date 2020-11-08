@@ -1,0 +1,8 @@
+com\crealabs\creativebasic\managers\PlayerUUIDManager.class
+com\crealabs\creativebasic\main\Main.class
+com\crealabs\creativebasic\commands\BackCommand.class
+com\crealabs\creativebasic\commands\WarpCommand.class
+com\crealabs\creativebasic\listeners\PlayerListeners.class
+com\crealabs\creativebasic\managers\RegisterCommands.class
+com\crealabs\creativebasic\commands\HelpCommand.class
+com\crealabs\creativebasic\commands\GamemodeCommand.class

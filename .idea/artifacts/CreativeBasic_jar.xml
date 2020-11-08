@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CreativeBasic:jar">
+    <output-path>$PROJECT_DIR$/../../../../../Serveur dev/plugins</output-path>
+    <root id="archive" name="CreativeBasic.jar">
+      <element id="module-output" name="CreativeBasic" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>
